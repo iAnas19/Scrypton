@@ -1,7 +1,8 @@
 import Lexical
+import Syntax
 
 if __name__ == "__main__":
-    TKs = Lexical.lexer('code.txt')
+    TKs = Lexical.lexer('SAtest.txt')
     print('\n')
     i = 0
     print("---------------------------------------------------------------------------------------------------------------------")
@@ -10,3 +11,4 @@ if __name__ == "__main__":
               "Value: ", T.ValuePart, "\t\t\t", "Class", T.ClassPart)
         print("---------------------------------------------------------------------------------------------------------------------")
         i += 1
+    Syntax.SA(TKs)
