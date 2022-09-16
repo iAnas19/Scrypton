@@ -1,0 +1,228 @@
+Token 38:
+Class: ID
+Value: interface
+Line: 1
+
+
+Token 39:
+Class: :
+Value: :
+Line: 1
+
+
+Token 40:
+Class: :
+Value: :
+Line: 1
+
+
+Token 41:
+Class: ID
+Value: A_B_C
+Line: 1
+
+
+Token 42:
+Class: while
+Value: while
+Line: 2
+
+
+Token 43:
+Class: (
+Value: (
+Line: 2
+
+
+Token 44:
+Class: ID
+Value: a
+Line: 2
+
+
+Token 45:
+Class: .
+Value: .
+Line: 2
+
+
+Token 46:
+Class: ID
+Value: b
+Line: 2
+
+
+Token 47:
+Class: .
+Value: .
+Line: 2
+
+
+Token 48:
+Class: ID
+Value: c
+Line: 2
+
+
+Token 49:
+Class: ROP
+Value: <
+Line: 2
+
+
+Token 50:
+Class: ROP
+Value: <
+Line: 2
+
+
+Token 51:
+Class: ROP
+Value: <
+Line: 2
+
+
+Token 52:
+Class: ROP
+Value: <
+Line: 2
+
+
+Token 53:
+Class: ROP
+Value: <=
+Line: 2
+
+
+Token 54:
+Class: AOP
+Value: =
+Line: 2
+
+
+Token 55:
+Class: int
+Value: 78
+Line: 2
+
+
+Token 56:
+Class: string
+Value: abc"
+Line: 4
+
+
+Token 57:
+Class: AOP
+Value: =
+Line: 4
+
+
+Token 58:
+Class: ID
+Value: b
+Line: 4
+
+
+Token 59:
+Class: AOP
+Value: =
+Line: 4
+
+
+Token 60:
+Class: ID
+Value: c
+Line: 4
+
+
+Token 61:
+Class: DT
+Value: string
+Line: 5
+
+
+Token 62:
+Class: ID
+Value: s
+Line: 5
+
+
+Token 63:
+Class: AOP
+Value: =
+Line: 5
+
+
+Token 64:
+Class: string
+Value: \\\
+Line: 5
+
+
+Token 65:
+Class: PM
+Value: +
+Line: 5
+
+
+Token 66:
+Class: string
+Value: ++'\n'+=35'\
+Line: 5
+
+
+Token 67:
+Class: return
+Value: return
+Line: 6
+
+
+Token 68:
+Class: Invalid Lexeone
+Value: a&&
+Line: 6
+
+
+Token 69:
+Class: ROP
+Value: ==
+Line: 6
+
+
+Token 70:
+Class: DT
+Value: float
+Line: 7
+
+
+Token 71:
+Class: ID
+Value: a
+Line: 7
+
+
+Token 72:
+Class: AOP
+Value: =
+Line: 7
+
+
+Token 73:
+Class: float
+Value: 3.2
+Line: 7
+
+
+Token 74:
+Class: ;
+Value: ;
+Line: 7
+
+
+Token 75:
+Class: $
+Value: $
+Line: 7
+
+
